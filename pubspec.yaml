@@ -1,6 +1,6 @@
 dependencies:
   flutter:
-    sdk: flutter
+    sdk: "^3.10.0"
 
   # အခြား dependencies တွေ (flutter_bloc, dio, etc...) ကို မထိနဲ့
   # အောက်က intl လိုင်းကို သေချာ ဒီလိုပဲ သတ်မှတ်ပါ
